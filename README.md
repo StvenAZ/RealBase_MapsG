@@ -21,16 +21,16 @@ Este proyecto es una aplicación móvil desarrollada en Android que permite real
 
 ### 1. Pantalla Principal
 ![image](https://github.com/user-attachments/assets/ac0c0002-e45c-42ed-965c-580f547a5ad3)
-Ubicación inicial del marcador
+- **Descripción:** Ubicación inicial del marcador
 ![image](https://github.com/user-attachments/assets/7e105305-a085-4763-859d-82d782c36b29)
-Coordenadas correspondiente al mapa
+- **Descripción:** Coordenadas correspondiente al mapa
 
 
 ### 2. Actualización del Marcador en base al desplazamiento 
 ![image](https://github.com/user-attachments/assets/ab665584-2aa7-4b0c-a7ab-ff98041a9251)
-Nueva ubicación 
+- **Descripción: **Nueva ubicación 
 ![image](https://github.com/user-attachments/assets/dc6b87ca-1f13-49c5-9309-393cf9f05053)
-Coordenada actualizada
+- **Descripción: **Coordenada actualizada
 
 
 - **Descripción:** Los datos recibidos en Firebase se actualizan en tiempo real según el desplazamiento del marcador de GoogleMaps.
