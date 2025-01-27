@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "495814254501",
+    "firebase_url": "https://fir-b178c-default-rtdb.firebaseio.com",
+    "project_id": "fir-b178c",
+    "storage_bucket": "fir-b178c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495814254501:android:9c59aef94302854d8e524c",
+        "android_client_info": {
+          "package_name": "com.example.realbase_mapsg"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfqO6Tvxw_5D3nPFQo9lVPkb8v6xb_wrQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495814254501:android:66d6875a50025eab8e524c",
+        "android_client_info": {
+          "package_name": "com.example.realtime_db"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfqO6Tvxw_5D3nPFQo9lVPkb8v6xb_wrQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495814254501:android:510509211b0808c08e524c",
+        "android_client_info": {
+          "package_name": "com.example.realtime_maps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfqO6Tvxw_5D3nPFQo9lVPkb8v6xb_wrQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
